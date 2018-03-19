@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
 
 <center><h1> Adriaan van der Heijden - VR Developer </h1></center>
@@ -9,3 +11,4 @@
   <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
   <a-sky color="#ECECEC"></a-sky>
 </a-scene>
+</html>
